@@ -1,0 +1,4 @@
+Rencana belajar
+1. Belajar HTML
+2. Belajar CSS
+3. Belajar Javascript
