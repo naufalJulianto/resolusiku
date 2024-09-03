@@ -1,4 +1,6 @@
 Rencana belajar
 1. Belajar HTML
+   - HTML Dasar
 2. Belajar CSS
+   - CSS Dasar
 3. Belajar Javascript
